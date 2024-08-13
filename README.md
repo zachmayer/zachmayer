@@ -6,6 +6,7 @@ AI exec & Kaggle Grandmaster with 15+ years of building with AI and ML.
 - 🏆 [Kaggle Grandmaster](https://www.kaggle.com/zachmayer) (former top 100)
 - 🚀 Founded teams for Generative AI, Visual AI, and AutoML
 - 💡 [Inventor with 2 granted patents and 4 published applications](https://patents.google.com/?inventor=Mayer&assignee=DataRobot&country=US&dups=language)
+- 📅 [Book a paid consiltation](https://calendly.com/zach-deane-mayer/paid-consultation)
 
 🐍 Python | 🧮 R | 💬 ~NLP~ LLMs | 🤖 Machine Learning | 🔮 Deep Learning
 
