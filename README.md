@@ -11,7 +11,7 @@ AI exec & Kaggle Grandmaster with 15+ years of building with AI and ML.
 
 ### ⚡ Fun facts:
 - 🚆 Started my machine learning journey on Boston's commuter rail in 2010, landed 9th in the [Heritage Health Prize](https://www.kaggle.com/c/hhp/leaderboard).
-- 🏀 Battling March Madness for a [decade](https://www.kaggle.com/competitions/march-machine-learning-mania-2014/leaderboard) with AI and homemade efficiency ratings - regular brackets were too low-variance 🎢
+- 🏀 Battling March Madness for a [decade](https://www.kaggle.com/competitions/march-machine-learning-mania-2014/leaderboard) with AI and homemade efficiency ratings - regular brackets were too low-variance 🎢.
 - 💽 Used ML to [optimize drive purchases](https://github.com/zachmayer/backblaze_analysis) for my home NAS.
 - 🐢 [Wrote the best package for model stacking in R.](https://cran.r-project.org/web/packages/caretEnsemble/index.html)
   
