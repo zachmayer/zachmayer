@@ -1,6 +1,4 @@
-### Hey there, I'm Zach! 👋
-
-AI executive & Kaggle Grandmaster with 15+ years of building products with AI and ML.
+### AI executive & Kaggle Grandmaster: 15+ years building with AI and ML.
 
 - 🧠 [AI strategy consultant](https://www.ai-insight-solutions.com/), ex-VP of Data Science at DataRobot
 - 🏆 [Kaggle Grandmaster](https://www.kaggle.com/zachmayer) (former top 100)
