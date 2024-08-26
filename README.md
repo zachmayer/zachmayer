@@ -2,7 +2,7 @@
 
 - 🧠 [AI strategy consultant](https://www.ai-insight-solutions.com/), ex-VP of Data Science at DataRobot
 - 🏆 [Kaggle Grandmaster](https://www.kaggle.com/zachmayer) (former top 100)
-- 🚀 Founded teams for Generative AI, Visual AI, and AutoML
+- 🚀 Founded and scaled teams for Generative AI, Visual AI, and AutoML
 - 💡 [Inventor with 2 granted patents and 4 published applications](https://patents.google.com/?inventor=Mayer&assignee=DataRobot&country=US&dups=language)
 
 🐍 Python | 🧮 R | 💬 LLMs | 🤖 Machine Learning | 🔮 Deep Learning | 📅 [Book a paid consultation](https://calendly.com/zach-deane-mayer/paid-consultation)
