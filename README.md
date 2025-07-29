@@ -1,18 +1,22 @@
-### AI executive & Kaggle Grandmaster: 15+ years building with AI and ML.
+### Building production LLM agents & multi-agent systems
 
-- 🧠 [AI strategy consultant](https://www.ai-insight-solutions.com/), ex-VP of Data Science at DataRobot
-- 🏆 [Kaggle Grandmaster](https://www.kaggle.com/zachmayer) (former top 100)
-- 🚀 Founded and scaled teams for Generative AI, Visual AI, and AutoML
-- 💡 [Inventor with 2 granted patents and 4 published applications](https://patents.google.com/?inventor=Mayer&assignee=DataRobot&country=US&dups=language)
+- 🤖 Head of AI @ AI Insight Solutions - shipping agents that work (60x faster, 80% fewer hallucinations)
+- 🧠 Former VP Data Science @ DataRobot - founded Generative AI & Visual AI teams
+- 🏆 [Kaggle Grandmaster](https://www.kaggle.com/zachmayer) & [2 patents in ML systems](https://patents.google.com/?inventor=Mayer&assignee=DataRobot&country=US&dups=language)
+- 📚 Teaching ML: [Advanced Deep Learning](https://www.datacamp.com/courses/advanced-deep-learning-with-keras) & [ML with caret](https://www.datacamp.com/courses/machine-learning-with-caret-in-r)
 
-🐍 Python | 🧮 R | 💬 LLMs | 🤖 Machine Learning | 🔮 Deep Learning | 📅 [Book a paid consultation](https://calendly.com/zach-deane-mayer/paid-consultation)
+🐍 Python | 🔧 Production ML | 🤝 Agentic Systems | ⚡ Low-latency AI
+
+### Current focus:
+- Multiple agents playing games
+- Tools for agents
+- Replacing LLM calls with FFTs (seriously!)
 
 ### ⚡ Fun facts:
-- 🚆 Started my machine learning journey on Boston's commuter rail in 2010, landed 9th in the [Heritage Health Prize](https://www.kaggle.com/c/hhp/leaderboard).
-- 🏀 Battling March Madness for a [decade](https://www.kaggle.com/competitions/march-machine-learning-mania-2014/leaderboard) with AI and homemade efficiency ratings - regular brackets were too low-variance 🎢.
-- 💽 Used ML to [optimize drive purchases](https://github.com/zachmayer/backblaze_analysis) for my home NAS.
-- 🐢 [Wrote the best package for model stacking in R.](https://cran.r-project.org/web/packages/caretEnsemble/index.html)
-  
+- 🚆 Started ML on Boston's commuter rail in 2010, landed [9th in Heritage Health Prize](https://www.kaggle.com/c/hhp/leaderboard)
+- 🎮 Building [multi-agent Diplomacy](https://github.com/zachmayer/diplomacy-agents) - 7 LLMs playing gunboat diplmomacy
+- 🐢 [Wrote the best model stacking package in R](https://cran.r-project.org/web/packages/caretEnsemble/index.html) (still maintained after 10 years!)
+
 ### GitHub Stats:
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmayer&show_icons=true&theme=tokyonight)
 
