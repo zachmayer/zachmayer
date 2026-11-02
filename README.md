@@ -16,8 +16,3 @@
 - 🚆 Started ML on Boston's commuter rail in 2010, landed [9th in Heritage Health Prize](https://www.kaggle.com/c/hhp/leaderboard)
 - 🎮 Building [multi-agent Diplomacy](https://github.com/zachmayer/diplomacy-agents) - 7 LLMs playing gunboat diplmomacy
 - 🐢 [Wrote the best model stacking package in R](https://cran.r-project.org/web/packages/caretEnsemble/index.html) (still maintained after 10 years!)
-
-### GitHub Stats:
-![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachmayer&show_icons=true&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zachmayer&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
