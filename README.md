@@ -14,5 +14,5 @@
 
 ### ⚡ Fun facts:
 - 🚆 Started ML on Boston's commuter rail in 2010, landed [9th in Heritage Health Prize](https://www.kaggle.com/c/hhp/leaderboard)
-- 🎮 Building [multi-agent Diplomacy](https://github.com/zachmayer/diplomacy-agents) - 7 LLMs playing gunboat diplmomacy
+- 🎮 Building [multi-agent Diplomacy](https://github.com/zachmayer/diplomacy-agents) - 7 LLMs playing gunboat diplomacy
 - 🐢 [Wrote the best model stacking package in R](https://cran.r-project.org/web/packages/caretEnsemble/index.html) (still maintained after 10 years!)
